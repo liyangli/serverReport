@@ -1,0 +1,2 @@
+2016-04-28 12:33:26 ERROR com.bohui.HelloController - 出现错误了，错误信息为：java.lang.NullPointerException
+2016-04-28 12:34:26 ERROR com.bohui.HelloController - 出现错误了，错误信息为：java.lang.NullPointerException
